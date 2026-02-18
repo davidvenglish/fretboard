@@ -1,6 +1,6 @@
 # Fretboard Memorization Game 🎸
 
-A terminal-based game for learning the notes on a guitar fretboard. Built with Python, no dependencies required.
+A terminal-based game for learning the notes on a guitar fretboard, built with python.
 
 ## How It Works
 
